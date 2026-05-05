@@ -1,0 +1,9 @@
+drwx------ 2 root root  4096 May  5 09:44 bin
+drwx------ 2 root root  4096 May  5 09:44 certs
+drwx------ 2 root root  4096 May  5 09:44 chisel
+drwx------ 2 root root  4096 May  5 09:44 compose
+drwx------ 2 root root  4096 May  5 09:44 docker_config
+-rw------- 1 root root 32768 May  5 10:29 portainer.db
+-rw------- 1 root root   227 May  5 09:44 portainer.key
+-rw------- 1 root root   190 May  5 09:44 portainer.pub
+drwx------ 2 root root  4096 May  5 09:44 tls
