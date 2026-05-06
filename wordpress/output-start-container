@@ -1,0 +1,4 @@
+[+] up 3/3
+ ✔ Network wordpress_default       Created                                                                                               0.1s
+ ✔ Container wordpress-mysql-1     Started                                                                                               0.8s
+ ✔ Container wordpress-wordpress-1 Started
